@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Lykah or you can call me @Ahkyll
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- 👀 I’m interested in digital art, 3d rendering, graphic design, web and app development :)
+- 🌱 I’m currently learning on cyber security.
+- 💞️ I’m looking to collaborate on anything that is within my capabilities. 
+- 📫 You can reach me by my social accounts on my bio.
 
 <!---
 Ahkyll/Ahkyll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
