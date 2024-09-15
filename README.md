@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lykah or you can call me @Ahkyll
 - 👀 I’m interested in digital art, 3d rendering, graphic design, web and app development :)
-- 🌱 I’m currently learning on cyber security.
+- 🌱 I’m currently learning on
 - 💞️ I’m looking to collaborate on anything that is within my capabilities. 
 - 📫 You can reach me by my social accounts on my bio.
 
